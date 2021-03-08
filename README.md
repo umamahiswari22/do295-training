@@ -1,1 +1,1 @@
-# do295-training
+# rh-os-4.5
